@@ -1,0 +1,11 @@
+{
+  "name": "chatbot furia",
+  "version": "1.0.0",
+  "description": "Um projeto de página da web usando HTML e CSS.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "author": "felipe",
+  "license": "MIT"
+}
